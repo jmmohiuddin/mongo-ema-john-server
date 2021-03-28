@@ -51,4 +51,4 @@ client.connect((err) => {
   });
 });
 
-app.listen(prodcess.env.PORT || port);
+app.listen(process.env.PORT || port);
